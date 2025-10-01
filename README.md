@@ -67,7 +67,7 @@ python task4_cnn.py
 
 ## 👨‍💻 Author
 
-Your Name
+MUDUMBA SRINIDHI
 📧 [srinidhimudumba@gmail.com](mailto:srinidhimudumba@gmail.com)
 🌐 [GitHub Profile](https://github.com/Srinidhi1009)
 
